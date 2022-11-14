@@ -1,0 +1,11 @@
+C:\Users\China\Documents\SEGUNDO CUATRIMESTRE\programacion II\FacturacionFINAL\bin\Debug\FacturacionFINAL.exe.config
+C:\Users\China\Documents\SEGUNDO CUATRIMESTRE\programacion II\FacturacionFINAL\bin\Debug\FacturacionFINAL.exe
+C:\Users\China\Documents\SEGUNDO CUATRIMESTRE\programacion II\FacturacionFINAL\bin\Debug\FacturacionFINAL.pdb
+C:\Users\China\Documents\SEGUNDO CUATRIMESTRE\programacion II\FacturacionFINAL\obj\Debug\FacturacionFINAL.csproj.AssemblyReference.cache
+C:\Users\China\Documents\SEGUNDO CUATRIMESTRE\programacion II\FacturacionFINAL\obj\Debug\FacturacionFINAL.csproj.SuggestedBindingRedirects.cache
+C:\Users\China\Documents\SEGUNDO CUATRIMESTRE\programacion II\FacturacionFINAL\obj\Debug\FacturacionFINAL.Form1.resources
+C:\Users\China\Documents\SEGUNDO CUATRIMESTRE\programacion II\FacturacionFINAL\obj\Debug\FacturacionFINAL.Properties.Resources.resources
+C:\Users\China\Documents\SEGUNDO CUATRIMESTRE\programacion II\FacturacionFINAL\obj\Debug\FacturacionFINAL.csproj.GenerateResource.cache
+C:\Users\China\Documents\SEGUNDO CUATRIMESTRE\programacion II\FacturacionFINAL\obj\Debug\FacturacionFINAL.csproj.CoreCompileInputs.cache
+C:\Users\China\Documents\SEGUNDO CUATRIMESTRE\programacion II\FacturacionFINAL\obj\Debug\FacturacionFINAL.exe
+C:\Users\China\Documents\SEGUNDO CUATRIMESTRE\programacion II\FacturacionFINAL\obj\Debug\FacturacionFINAL.pdb
